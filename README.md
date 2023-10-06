@@ -1,3 +1,1 @@
-### ⚠️ No longer hosting open source projects on GitHub
-
-I explain my reasoning for migrating my projects to [SourceHut](https://sr.ht/~loges) in this [post](https://loganconnolly.com/post/goodbye-github/).
+⚠️ I am no longer hosting open source projects on GitHub. I explain my reasoning for why I migrated my projects to [SourceHut](https://sr.ht/~loges) in this [post](https://loganconnolly.com/post/goodbye-github/).
