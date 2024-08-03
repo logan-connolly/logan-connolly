@@ -1,5 +1,6 @@
 # Hello there 👋
 
-I am no longer hosting open source projects on GitHub.
+I no longer host my personal projects on github[^1]. New and existing projects can be found on sourcehut[^2].
 
-I explained in a recent [post](https://loganconnolly.com/post/goodbye-github/) my reasoning for why I migrated my projects to [SourceHut](https://sr.ht/~loges).
+[^1]: https://loganconnolly.com/post/goodbye-github/
+[^2]: https://sr.ht/~loges
